@@ -6,4 +6,4 @@ TODO:
 - Docker compose files
 - Install scipts
 - Stack files for Portainer
-
+- and something more...
